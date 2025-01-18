@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jan 2025 16:02:14 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,7 @@
       <link>http://localhost:1313/posts/new/</link>
       <pubDate>Sat, 18 Jan 2025 16:02:14 +0530</pubDate>
       <guid>http://localhost:1313/posts/new/</guid>
-      <description>&lt;p&gt;Im pugazh, first blog&lt;/p&gt;
-&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
-&lt;h2 id=&#34;head-2&#34;&gt;Head 2&lt;/h2&gt;
-&lt;h3 id=&#34;head-3&#34;&gt;Head 3&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://bytelog.pages.dev&#34;&gt;This blog&lt;/a&gt; inspire me to write this blog so check him blog out.
-&lt;a href=&#34;https://bytelog.pages.dev&#34;&gt;https://bytelog.pages.dev&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;help me!&amp;#34;&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;# not &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Im pugazh, first blog&lt;/p&gt;&#xA;&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;head-2&#34;&gt;Head 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;head-3&#34;&gt;Head 3&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bytelog.pages.dev&#34;&gt;This blog&lt;/a&gt; inspire me to write this blog so check him blog out.&#xA;&lt;a href=&#34;https://bytelog.pages.dev&#34;&gt;https://bytelog.pages.dev&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;help me!&amp;#34;&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;# not &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
