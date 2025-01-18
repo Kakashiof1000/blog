@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "59e00f7eb980bacb",
+    "id": "49117c3475e088c3",
     "type": "split",
     "children": [
       {
-        "id": "b494c166905f8a45",
+        "id": "ad34fb138ec4ddf9",
         "type": "tabs",
         "children": [
           {
-            "id": "6660caeafcbf6e84",
+            "id": "dcc6e30132498414",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/new3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "new3"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "009df3d3288ecdad",
+    "id": "78abcca81c243f12",
     "type": "split",
     "children": [
       {
-        "id": "05cbd80a24ce6b8d",
+        "id": "3072c68ed1089b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "4e17aa5ace617997",
+            "id": "858b3feeb92833ab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "bf5d6756f82c73fe",
+            "id": "9d44f24e408c9dc7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "0ed90caaf1ec8000",
+            "id": "c24df817139c8b08",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "dbec496a9fd6dc9d",
+    "id": "fa6bb38f4eceb405",
     "type": "split",
     "children": [
       {
-        "id": "0fa2916ec07fc099",
+        "id": "e4264aa3559c1bc4",
         "type": "tabs",
         "children": [
           {
-            "id": "a508a14e247bd9c9",
+            "id": "48dee1c26c6e47b8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for new"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "41abad56a1faa356",
+            "id": "fd3074758a14537c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from new"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "afd86d85d3166885",
+            "id": "8a030f69d359aa39",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +128,13 @@
             }
           },
           {
-            "id": "5d7a8fd187e4da1a",
+            "id": "62950d95e003c519",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/new.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of new"
+              "title": "Outline"
             }
           }
         ]
@@ -162,14 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6660caeafcbf6e84",
-  "lastOpenFiles": [
-    "posts/new.md",
-    "posts/new3.md",
-    "posts/new2.md",
-    "post/new3.md",
-    "post",
-    "Untitled",
-    "posts"
-  ]
+  "active": "dcc6e30132498414",
+  "lastOpenFiles": []
 }

@@ -1,8 +1,4 @@
----
-date: 2025-01-18T16:02:14+05:30
-draft: false
-title: New
----
+
 Im pugazh, first blog
 
 # Heading 1
